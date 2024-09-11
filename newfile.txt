@@ -1,1 +1,2 @@
 text file for devops assignment 
+This is new file
